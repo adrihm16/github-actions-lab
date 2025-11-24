@@ -1,4 +1,4 @@
-ame: Mi Primer Workflow
+name: Mi Primer Workflow
 
 on:
   push:
